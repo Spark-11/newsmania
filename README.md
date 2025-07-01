@@ -4,6 +4,10 @@ A modern news aggregator that uses AI to provide concise summaries of news artic
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/c80f1234-af8a-45a2-9959-04b43c1956e9
+
+
 ## Technologies Used
 
 ### Frontend
@@ -55,11 +59,11 @@ npm run dev
 ```
 
 4. **AI Service Setup**
-For the AI part, I take the help of Google Colab for using GPU Service, so that summarization takes place in less time.
+- For the AI part, I take the help of Google Colab for using GPU Service, so that summarization takes place in less time.
 ```bash
 https://colab.research.google.com/drive/1ZCHBnCn6v77_njD7iETcUtdkLFIZ3BR_?usp=sharing
 ```
-After running the code in Google Colab, paste the link found in the output in your .env file
+- After running the code in Google Colab, paste the link found in the output in your .env file
 
 ## Features
 - Real-time news fetching from multiple sources
