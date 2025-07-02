@@ -5,7 +5,10 @@ A modern news aggregator that uses AI to provide concise summaries of news artic
 ## Demo
 
 
-https://github.com/user-attachments/assets/c80f1234-af8a-45a2-9959-04b43c1956e9
+
+https://github.com/user-attachments/assets/0c184d88-71c9-4cea-ad07-b6e62c8aabb9
+
+
 
 
 ## Technologies Used
