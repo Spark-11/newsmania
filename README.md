@@ -41,8 +41,8 @@ https://github.com/user-attachments/assets/0c184d88-71c9-4cea-ad07-b6e62c8aabb9
 
 1. **Clone the repository**
 ```bash
-git clone [repository-url]
-cd news-summarizer
+git clone https://github.com/Spark-11/newsmania.git
+cd newsmania
 ```
 
 2. **Backend Setup**
