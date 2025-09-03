@@ -1,4 +1,4 @@
-# News Summarizer
+# Newsmania
 
 A modern news aggregator that uses AI to provide concise summaries of news articles from multiple Indian news sources.
 
@@ -50,7 +50,7 @@ cd newsmania
 cd server
 npm install
 # Create .env file with MongoDB URI
-echo "MONGODB_URI=mongodb://localhost:27017/news-summarizer" > .env
+echo "MONGODB_URI=mongodb://localhost:27017/newsmania" > .env
 npm start
 ```
 
